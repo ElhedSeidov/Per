@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\bin\Debug\net6.0\ConsoleAppBanks.exe
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\bin\Debug\net6.0\ConsoleAppBanks.deps.json
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\bin\Debug\net6.0\ConsoleAppBanks.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\bin\Debug\net6.0\ConsoleAppBanks.dll
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\bin\Debug\net6.0\ConsoleAppBanks.pdb
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\obj\Debug\net6.0\ConsoleAppBanks.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\obj\Debug\net6.0\ConsoleAppBanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\obj\Debug\net6.0\ConsoleAppBanks.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\obj\Debug\net6.0\ConsoleAppBanks.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\obj\Debug\net6.0\ConsoleAppBanks.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\obj\Debug\net6.0\ConsoleAppBanks.dll
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\obj\Debug\net6.0\refint\ConsoleAppBanks.dll
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\obj\Debug\net6.0\ConsoleAppBanks.pdb
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\obj\Debug\net6.0\ConsoleAppBanks.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\DartCode\Desktoptabas\ConsoleAppBanks\obj\Debug\net6.0\ref\ConsoleAppBanks.dll
